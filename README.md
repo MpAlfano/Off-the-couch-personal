@@ -18,7 +18,7 @@ An application that can take a variety of user inputs such as location, interest
 ## Powerpoint Presentation
 [POWERPOINT PRESENTATION](https://docs.google.com/presentation/d/1bmLWY_ERgOwWdYbaw5DLyFqnMvfGh0wJu0KOiqWQCpw/edit?usp=sharing) 
 ## Sample Website
-[DEMO LINK](https://MpAlfano.github.io/Off-The-Couch/) 
+[DEMO LINK](https://MpAlfano.github.io/Off-the-couch-personal/) 
 ## Folder Structure
 ```
 📦Off-The-Couch
